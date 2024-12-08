@@ -144,7 +144,10 @@ if (isset($_GET['act']) && $_GET["act"] != "") {
             include "home.php";
             break;
     }
+    
 } else {
     include "home.php";
 }
+include "footer.php";
 ?>
+

@@ -16,14 +16,13 @@
 <body>
    <div class="boxcenter">
       <div class="row mb header">
-         <h1>HSMBooks</h1>
+         <a href="index.php"><img src="../view/img/logo1.png" alt="" srcset="" height="120px" style="align-items: center;"></a>
       </div>
       <div class="row mb menu">
          <ul>
             <li><a href="index.php">🏠Trang chủ</a></li>
             <li><a href="index.php?act=gioithieu">🪪Giới thiệu</a></li>
-            <li><a href="index.php?act=mybill">📃Đơn hàng</a></li>
             <li><a href="index.php?act=viewcart">🛒Giỏ hàng</a></li>
-            <li><a href="index.php?act=hoidap">❔Hỏi đáp</a></li>
+            <li><a href="index.php?act=hoidap">❓Hỏi đáp</a></li>
          </ul>
       </div>

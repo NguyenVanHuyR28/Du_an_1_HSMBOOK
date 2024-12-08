@@ -9,9 +9,9 @@
 </head>
 
 <body>
-   <div class="boxcenter">
+   <div class="r">
       <div class="row mb headeradmin">
-         <h1>ADMIN</h1>
+         <img src="../view/img/logo1.png" alt="hinhanh" srcset="" height="120px" style="align: center;">
       </div>
       <div class="row mb menu">
          <ul>

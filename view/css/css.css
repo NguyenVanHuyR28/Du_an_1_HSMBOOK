@@ -35,7 +35,7 @@
   font-size: 1.4vw;
 }
 .menu {
-  background-color: #99a5a2;
+  background-color: #555555;
   color: white;
   border-radius: 5px;
 }
@@ -153,8 +153,8 @@
   transition: 0.5;
 }
 .menu ul li a:hover {
-  color: white;
-  font-size: 1.1vw;
+  color: red;
+  font-size: 1.0vw;
 }
 .formtaikhoan {
   line-height: 150%;
@@ -248,7 +248,7 @@
   text-decoration: underline;
 }
 .headeradmin {
-  background-color: #a4c1c4;
+  background-color: #000;
   color: white;
   padding: 0 35px;
   border-radius: 5px;
