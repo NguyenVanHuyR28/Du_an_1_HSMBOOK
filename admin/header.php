@@ -11,7 +11,7 @@
 <body>
    <div class="r">
       <div class="row mb headeradmin">
-         <img src="../view/img/logo1.png" alt="hinhanh" srcset="" height="120px" style="align: center;">
+         <img src="../view/img/logo1.png" alt="hinhanh" srcset="" height="120px">
       </div>
       <div class="row mb menu">
          <ul>
